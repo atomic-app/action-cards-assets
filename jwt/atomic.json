@@ -1,0 +1,29 @@
+{
+  "keys": [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "nLmO6qBtUMukHDVH4PJ5mQXllM189PnymVZ9bCEFKmA=",
+      "kty": "RSA",
+      "n": "wqgxwFLiAMruyKHXJf15b-i8cOZup6ar1lF_rkNo7LIWdTh9BT8BKAxR5M-atj9ot9Y8gJ-ymOSJZb8I7Fc3ruwGBEGEavn4_UH6z0j8PjQTvP2KGbo9p-s3x8iHintKnEh2rD0BcVaBjSaAl2S10wPxkyYeRWCUA3ZR7pnD6JncmWBhmznDQb1TUheZ2hEwfI-t2HuaMyNS_29apsk2nRCwKkjHxBKsHMBB05qYZj341EUcSwp5w1W_SWTBuS7ZzSLfMPUvWNPvK604rxuTv1E6v9MUoRdTkhjLaWpnwhYXVoGZdXRBPZ-sZPiMD7aJYPUFLlWzkTwvtyGrwKjnRw",
+      "use": "sig"
+    },
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "03A28QZ6Qig+aC2mvERx5r1MjB3BzwNuSq/K41xZAag=",
+      "kty": "RSA",
+      "n": "jZmidPBb-y4DxoPDygBljnjf-ECTIcmSFBXJN1eV2dNp1UCPSwZoY2Fvp4jgL07caoUTCGyfhGT1ZzO1PZf55j9_OjHnzGRE6VavQm6zj-CNZ9HMr6163nMVviw0J2coiMdj5FIN2VcSwPdBUVxANaqBK929tAcMVIFr1gVrgp5_hCS8aKR6K0tCAKUI6UnOrZ3NAF8vi0erRb4vo8qMX4lTWwe7BTNEyfgpHl80ZaFwJosM98_55ofgJbcM1RxQ5h78m0dIAkYkJrHB0tpypEzmXkCuSDBqN-YvgjTAIlAgd-r_Ba1-t6slg4eJnqfXGLmzldLiUAK7yCVC18aT2Q",
+      "use": "sig"
+    },
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "id-atomic-integration-test",
+      "kty": "RSA",
+      "n": "AN0DNEmSyN4NGmTAoU5Mbf0BEVQs+z8IHLpUQc1OsVyP1O10jVaARLm4vI1TvMJVCDyMMTSCMLwF6R4cNZ8PAhE4k3IC9g2a6bnpnTPsauEscu/fNyxY5cMruBSgVc7fzCeq6Zc0XjtT2MKk+I998sHa0FWA5gbW3aI/o7HaGADe1ekU6h7SnuEuObG8n2PTQQeTYjhPMsxw8H/cfDi2MCXdUm6VJ9mEXodGyE+pvTZd0YmJNBSLE4EhpC8AIF/97o5JVAmGwp0GpF7eQNj5GYGkutsc4+t1ZTJ+05hPqMc8KXBpXn71EOF07BN1wO/5zTreJ9VkyTnOnjsRwfMjY/tCVutER+BNAa5uKnKaSlKuM6V+mdVjlhD8/74gy2Qe6qeU5uVGn7C+P9jeHzz9R9iAGuqwzn5wLBj5X0+JynP6Y99LvVGsqk7wdni6DdSbqoQQLOeo2FfNiuFfcJ4kBQfdkTdjsJ0aV6r1HlbR0dnCpISKZMThdT1nK0WBng1DKX50PIYf7spWEMOIyXh2bIz6PLZmNHqChKiavMbOS7nZZw3tlZ0AkQk6OW2GEOekZBeFNsZTyuIMdu9g2bw7baNoZtgV2AEwmssy3RM1weqLaXbotG5Fm7DAcGH4mP1DYWTIFWYk/4nBTWF1Rom2DJ0wc1iVQGPmEXr496/ctFm/",
+      "use": "access",
+      "x5t": "UFpKdFl6YkNsUy9HZXQ5Y3pVTFliVjdYQTdZPQ"
+    }
+  ]
+}
